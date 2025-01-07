@@ -1,0 +1,8 @@
+streamlit
+whisper
+openai-whisper
+pydub
+ffmpeg-python
+groq
+pyngrok
+python-dotenv
