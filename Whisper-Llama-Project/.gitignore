@@ -12,3 +12,6 @@ venv/
 # Temporary files
 *.log
 *.tmp
+
+
+.DS_Store
