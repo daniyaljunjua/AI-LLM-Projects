@@ -26,5 +26,5 @@ Make sure you have Python 3.7+ installed on your system. This project also uses 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Whisper-Llama-Project.git
+git clone https://github.com/daniyaljunjua/Whisper-Llama-Project.git
 cd Whisper-Llama-Project
