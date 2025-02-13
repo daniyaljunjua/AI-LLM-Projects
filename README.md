@@ -8,7 +8,7 @@ This repository is a place where I demonstrate my expertise and passion for AI, 
 
 ### Technologies Used:
 - **Generative AI**
-- **Large Language Models (LLM)**: LLaMA, GPT, Whisper
+- **Large Language Models (LLM)**: LLaMA, Gemma, GPT, Whisper
 - **Natural Language Processing (NLP)**
 - **Streamlit** for web applications
 - **Python**
