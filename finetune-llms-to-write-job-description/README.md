@@ -84,6 +84,4 @@ We are looking for an experienced and skilled Senior Web Developer. We are a sma
 ## License
 This project is licensed under the **MIT License**.
 
----
-Feel free to modify this README as needed! 🚀
 
